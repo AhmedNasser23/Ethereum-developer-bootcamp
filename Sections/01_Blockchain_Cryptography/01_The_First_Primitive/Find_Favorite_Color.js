@@ -14,5 +14,3 @@ function findColor(hash) {
         }
     }
 }
-
-module.exports = findColor;

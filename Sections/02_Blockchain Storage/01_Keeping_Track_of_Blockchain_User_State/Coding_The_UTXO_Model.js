@@ -15,6 +15,7 @@ class Transaction {
         this.outputUTXOs = outputUTXOs;
         this.fee = 0;
     }
+
     execute() {
         let inputTotal = 0;
         let outputTotal = 0;
